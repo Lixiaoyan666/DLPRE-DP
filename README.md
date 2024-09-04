@@ -1,9 +1,8 @@
-# DLPRE-P estimator
+# DLPRE-DP estimator
 
-Distributed subsampling for relative-error multiplicative models with a diverging number of parameters
+Subsampling-based distributed computing for multiplicative models with a diverging number of parameters
 
-Paper: Li X., Xia X. and Zhang Z. (2024+). Distributed subsampling for relative-error multiplicative models with a diverging number
-of parameters. Submit to journal.
+Paper: Li X., Xia X. and Zhang Z. (2024+). Subsampling-based distributed computing for multiplicative models with a diverging number of parameters. Submit to journal.
 
 
 R code can be found in “DLPRE-DP.zip”.
